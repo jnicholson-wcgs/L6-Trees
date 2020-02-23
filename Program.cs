@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace U6Trees
+namespace L6Trees
 {
 
     /*
